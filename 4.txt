@@ -1,0 +1,5 @@
+Select * 
+From exp
+WHERE gender = 'Male' and age > 30
+ORDER BY age DESC;
+
